@@ -1,0 +1,1 @@
+export interface EngineAcousticDefinition { readonly engineClass: string; readonly manufacturerFamily: string; readonly rendererId: string; readonly id: string; readonly label: string; readonly approximation: string; readonly parameters: unknown; readonly telemetry: { readonly id: string }; }
